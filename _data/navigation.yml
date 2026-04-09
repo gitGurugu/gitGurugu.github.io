@@ -1,5 +1,7 @@
-# main links links
 main:
+  - title: "Homepage"
+    url: "/"
+
   - title: "About Me"
     url: "/#about-me"
 
@@ -10,17 +12,16 @@ main:
     url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
-
+    url: "/#internships"
 
   - title: "Blog"
-    url: /blog/
+    url: "/blog/"
